@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: dX13HQwzi/AgJget4VjvlOYRhsmaP1hD0Qgg1NeRMjPz/8bjbtrUkwmvJddTWeQb806GmFI3tE2ibOXiv/CJSM3LRJQDAXXWTPUGTr1CxDC//hAoCtLx0NK2fLl0cJkyuO/m3SAsqnsck0V4sLu0ZM1aA2JRFpVHNjdDUEDj7Wj6k4TKXsiKPlLRDBKkp0Z01+XJd+5RaZqBuu98G3Pu/aBlh2dVqLChKKpEHX9XmsXTUgB0oUJh3KZYaqHemwul/sbwIu51xBssoXAiOKrbjbcDC4Bg1Q5O3q4k7Gl6tzzDTLrDCUxd7SiCxPrJ5tHMylhdBNjhNy1/R1XHC/T6ME/2jMg81v+HRa1Iawdp9JlSp3eGZGzs1ibrUlhKzWvlYkOWZvI/NahgvBzcGbYIJkxa68egjfVgz80+SL8Yza5F6jzBddtYGZzyFc3CPZSKDTaOUHjCO/wy4SAFC6AbhJ8Z//oayRY87i9lShsasjGlrUYNc3RgrEbBIPffk7pWK5btuyx6EST8HHk8GoulivuaIg0RmBcYflDneZ0/SrfrHP1gZZwS5ya83qDpH+tk7Jju/88bNDInGHn/189IABnpp6Zhg+ABgfmQB+rYEqd3uLG98GtOFesQWZl9g/KUdUMtgk/dDZRnj7XQLQIdYGjVg270UALtxjM2I5F5si0=
-  app: https://pure-shelf-25832.herokuapp.com/
+  app: mighty-taiga-78989
   on:
     repo: sloanstewart/node-shopping-list-integration-tests
